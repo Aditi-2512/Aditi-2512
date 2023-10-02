@@ -9,7 +9,7 @@ A self-taught Data Analyst, and SQL enthusiast from India.
 - Fun Fact: I love reading and listening to good music!
 
 ## :books:	Projects
-Welcome to my portfolio where I have curated a collection of my projects!
+Welcome to my portfolio where I have curated a collection of my [projects](https://github.com/Aditi-2512/Portfolio-Data_Analytics)!
 
 ## :hammer_and_pick:	Tools
 - Languages - Python, SQL
