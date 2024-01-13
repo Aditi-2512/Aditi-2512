@@ -5,7 +5,7 @@ A self-taught Data Analyst, and SQL enthusiast from India.
 
 - Finance student with 2 years of experience in Customer Service and Sales
 - Loves coding and learning new skills, I self-taught myself SQL and Python
-- I'm currently learning MongoDB and Data Modelling
+- I'm currently learning Machine Learning and working on some cool projects.
 - Fun Fact: I love reading and listening to good music!
 
 ## :books:	Projects
